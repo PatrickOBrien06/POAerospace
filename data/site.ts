@@ -11,15 +11,15 @@
 export const site = {
   url: 'https://example.com',
   meta: {
-    title: 'Alex Morgan | Full-stack engineer',
+    title: "Patrick O'Brien | Electrical Engineering Student",
     description:
-      'Portfolio example: shipping reliable web products with clear architecture, tests, and delivery practices.',
+      'Passionate about aerospace-grade projects',
   },
   hero: {
-    name: 'Alex Morgan',
-    role: 'Full-stack engineer',
+    name: "Patrick O'Brien",
+    role: 'Electrical Engineering Student',
     tagline: 'From product intent to production — pragmatic systems, accessible UI, and maintainable code.',
-    contact: 'Open to collaborations and senior IC roles on product-minded teams.',
+    contact: '',
     avatarSrc: '/favicon.svg',
     avatarAlt: 'Alex Morgan',
   },
@@ -37,15 +37,15 @@ export const site = {
       },
       {
         heading: 'Sample stack',
-        techItems: ['TypeScript', 'Astro', 'Tailwind CSS', 'Node', 'Vitest'],
+        techItems: ['CAD', 'PCB DESIGN', 'Node', 'Vitest'],
       },
     ],
   },
   experiences: [
     {
-      period: '2025',
-      title: 'Lead Product Designer',
-      company: 'Lumen Studio',
+      period: 'May - August, 2026',
+      title: '',
+      company: 'Newfoundland And Labrador Hydro',
       summary:
         'Built a polished portfolio experience with accessible UI, motion-led interactions, and reusable components.',
       highlights: [
